@@ -1,0 +1,120 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Sorting Tool (Java)/*
+!/Sorting Tool (Java)/task/
+/Sorting Tool (Java)/task/*
+!/Sorting Tool (Java)/task/src
+!/Sorting Tool (Java)/task/test
+
+# Project exclude paths
+/Topics/Anonymous classes/Capture variables/out/
+/Topics/Anonymous classes/Capture variables/out/production/classes/
+/Topics/Anonymous classes/Find a correct syntax/out/
+/Topics/Anonymous classes/Find a correct syntax/out/production/classes/
+/Topics/Anonymous classes/Single method/out/
+/Topics/Anonymous classes/Single method/out/production/classes/
+/Topics/Anonymous classes/Theory/out/
+/Topics/Anonymous classes/Theory/out/production/classes/
+/Topics/Command-line arguments/Command line arguments/out/
+/Topics/Command-line arguments/Command line arguments/out/production/classes/
+/Topics/Command-line arguments/How to pass ints/out/
+/Topics/Command-line arguments/How to pass ints/out/production/classes/
+/Topics/Command-line arguments/Parameters and their values/out/
+/Topics/Command-line arguments/Parameters and their values/out/production/classes/
+/Topics/Command-line arguments/The index of an argument/out/
+/Topics/Command-line arguments/The index of an argument/out/production/classes/
+/Topics/Command-line arguments/Theory/out/
+/Topics/Command-line arguments/Theory/out/production/classes/
+/Topics/Declaring a method/Method signature/out/
+/Topics/Declaring a method/Method signature/out/production/classes/
+/Topics/Declaring a method/Raise to the power/out/
+/Topics/Declaring a method/Raise to the power/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Declaring a method/Theory/out/
+/Topics/Declaring a method/Theory/out/production/classes/
+/Topics/Enumset/EnumSet/out/
+/Topics/Enumset/EnumSet/out/production/classes/
+/Topics/Enumset/Error/out/
+/Topics/Enumset/Error/out/production/classes/
+/Topics/Enumset/Set of vowels/out/
+/Topics/Enumset/Set of vowels/out/production/classes/
+/Topics/Enumset/Theory/out/
+/Topics/Enumset/Theory/out/production/classes/
+/Topics/Enumset/Vaccination/out/
+/Topics/Enumset/Vaccination/out/production/classes/
+/Topics/Floating-point types/Area of a circle/out/
+/Topics/Floating-point types/Area of a circle/out/production/classes/
+/Topics/Floating-point types/Distance/out/
+/Topics/Floating-point types/Distance/out/production/classes/
+/Topics/Floating-point types/Existing floating-point types/out/
+/Topics/Floating-point types/Existing floating-point types/out/production/classes/
+/Topics/Floating-point types/Find X/out/
+/Topics/Floating-point types/Find X/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/Floating-point types/Theory/out/
+/Topics/Floating-point types/Theory/out/production/classes/
+/Topics/Hiding and overriding/Saying animals/out/
+/Topics/Hiding and overriding/Saying animals/out/production/classes/
+/Topics/Hiding and overriding/Shapes area/out/
+/Topics/Hiding and overriding/Shapes area/out/production/classes/
+/Topics/Hiding and overriding/Theory/out/
+/Topics/Hiding and overriding/Theory/out/production/classes/
+/Topics/Iterating over arrays/Boxes/out/
+/Topics/Iterating over arrays/Boxes/out/production/classes/
+/Topics/Iterating over arrays/Find the sum/out/
+/Topics/Iterating over arrays/Find the sum/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/production/classes/
+/Topics/Printing data/First, second, third/out/
+/Topics/Printing data/First, second, third/out/production/classes/
+/Topics/Printing data/Strong protection/out/
+/Topics/Printing data/Strong protection/out/production/classes/
+/Topics/Printing data/Theory/out/
+/Topics/Printing data/Theory/out/production/classes/
+/Topics/Processing strings/Cutting out the middle of a string/out/
+/Topics/Processing strings/Cutting out the middle of a string/out/production/classes/
+/Topics/Processing strings/Determine the value/out/
+/Topics/Processing strings/Determine the value/out/production/classes/
+/Topics/Processing strings/Move the first N characters/out/
+/Topics/Processing strings/Move the first N characters/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Strategy/About the pattern/out/
+/Topics/Strategy/About the pattern/out/production/classes/
+/Topics/Strategy/Benefits/out/
+/Topics/Strategy/Benefits/out/production/classes/
+/Topics/Strategy/Max and Min/out/
+/Topics/Strategy/Max and Min/out/production/classes/
+/Topics/Strategy/Select one statement/out/
+/Topics/Strategy/Select one statement/out/production/classes/
+/Topics/Strategy/Theory/out/
+/Topics/Strategy/Theory/out/production/classes/
+/Topics/The Map interface/Basics of Maps/out/
+/Topics/The Map interface/Basics of Maps/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
